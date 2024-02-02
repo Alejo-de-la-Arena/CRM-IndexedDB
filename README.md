@@ -1,7 +1,5 @@
 # Customer Manager with IndexedDB and Tailwind CSS
 
-This project is a customer manager developed using web technologies like IndexedDB for browser data persistence, Tailwind CSS for UI design and styling, and JavaScript for client-side logic.
-
 ## Key Features
 
 - **Local Storage:** Utilizes IndexedDB, a browser database, to store and manage customer information efficiently and securely.
